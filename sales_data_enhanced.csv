@@ -1,0 +1,12 @@
+
+Date,Product,Category,Sales,Quantity,Region,Profit_Margin,Customer_Rating
+2024-01-01,Product A,Electronics,1200,10,North,25,4.5
+2024-01-05,Product B,Clothing,800,15,South,40,4.2
+2024-01-10,Product A,Electronics,1500,12,North,25,4.7
+2024-02-01,Product C,Grocery,500,50,East,15,3.8
+2024-02-15,Product B,Clothing,900,18,South,40,4.3
+2024-03-01,Product A,Electronics,1800,14,North,25,4.8
+2024-03-10,Product C,Grocery,600,60,East,15,4.0
+2024-03-15,Product D,Furniture,700,5,West,30,4.1
+2024-02-20,Product D,Furniture,650,4,West,30,4.0
+2024-01-25,Product B,Clothing,750,16,South,40,4.4
